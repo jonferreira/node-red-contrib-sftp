@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-sftp",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "An SFTP client for node-red, a wrapper for ssh2-sftp-client",
   "main": "sftp.js",
   "scripts": {
@@ -22,7 +22,6 @@
       "sftp": "sftp.js"
     }
   },
-
   "author": "Jónatas Ferreira",
   "license": "Apache-2.0",
   "bugs": {
