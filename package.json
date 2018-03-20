@@ -17,6 +17,12 @@
     "node-red",
     "sftp"
   ],
+  "node-red": {
+    "nodes": {
+      "sftp": "sftp.js"
+    }
+  },
+
   "author": "Jónatas Ferreira",
   "license": "Apache-2.0",
   "bugs": {
