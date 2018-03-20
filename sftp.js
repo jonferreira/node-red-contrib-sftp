@@ -1,6 +1,6 @@
 (function() {
 	
-	var debug = true;
+	var debug = false;
 	
   module.exports = function(RED) {
     var SFTPCredentialsNode, SFTPNode;
