@@ -1,0 +1,24 @@
+ {
+  "author": {
+    "name": "Jonatas Ferreira",
+    "email": "my.mail.jonatas@gmail.com",
+    "url": "http://nodered.org"
+  },
+  "dependencies": {
+    "ssh2-sftp-client": "2.1.0"
+  },
+  "description": "An SFTP Node-RED node",
+  "keywords": [
+    "node-red",
+    "sftp"
+  ],
+  "license": "Apache-2.0",
+  "name": "node-red-contrib-sftp",
+  "node-red": {
+    "nodes": {
+      "SFTP": "sftp.js"
+    }
+  },
+
+  "version": "0.0.1"
+}
