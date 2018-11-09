@@ -110,6 +110,7 @@
 				});
 				
 				msg.payload = data;
+				msg.remoteFilePath = this.remoteFilePath;
 				
 				node.send(msg);
 				
