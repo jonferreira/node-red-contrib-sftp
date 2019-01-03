@@ -124,7 +124,7 @@
 				node.status({
 				  shape: "dot",
 				  fill: "red",
-				  text : "Error: " + error 
+				  text : "Error: " + err
 				});
 				
 				msg.payload = err;
